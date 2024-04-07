@@ -13,7 +13,7 @@ a {
 }
 
 a:hover {
-  color: rgb(202, 39, 39);
+  color: rgb(34, 84, 234);
   scale: 1.1;
   transition: 0.5s;
 }
